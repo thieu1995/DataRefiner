@@ -7,6 +7,6 @@
 __version__ = "1.0.0"
 
 from datarefiner.ts.differencing import DifferenceScaler
-from datarefiner.ts.window import sliding_window_transform, SlidingTransformer
+from datarefiner.ts.window import sliding_window_transform, SlidingTransformer, RollingStatisticTransformer
 from datarefiner.ml.scaler import DataTransformer
 from datarefiner.helpers.preprocessor import Data
