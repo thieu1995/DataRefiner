@@ -15,7 +15,7 @@ def readme():
 
 setup(
     name="datarefiner",
-    version="1.0.0",
+    version="0.1.0",
     author="Thieu",
     author_email="nguyenthieu2102@gmail.com",
     description="DataRefiner: An Advanced Toolkit for Data Transformation and Processing",

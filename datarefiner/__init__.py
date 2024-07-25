@@ -4,7 +4,7 @@
 #       Github: https://github.com/thieu1995        %                         
 # --------------------------------------------------%
 
-__version__ = "1.0.0"
+__version__ = "0.1.0"
 
 from datarefiner.ts.differencing import DifferenceScaler
 from datarefiner.ts.window import SlidingTransformer, RollingStatisticTransformer, ExpandingStatisticTransformer
