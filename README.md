@@ -11,7 +11,7 @@
 [![Tests & Publishes to PyPI](https://github.com/thieu1995/DataRefiner/actions/workflows/publish-package.yaml/badge.svg)](https://github.com/thieu1995/DataRefiner/actions/workflows/publish-package.yaml)
 [![Documentation Status](https://readthedocs.org/projects/DataRefiner/badge/?version=latest)](https://DataRefiner.readthedocs.io/en/latest/?badge=latest)
 [![Chat](https://img.shields.io/badge/Chat-on%20Telegram-blue)](https://t.me/+fRVCJGuGJg1mNDg1)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11136007.svg)](https://doi.org/10.5281/zenodo.11136007)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12820732.svg)](https://doi.org/10.5281/zenodo.12820732)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
@@ -60,8 +60,24 @@ Please go check out the [examples](/examples) folder. You'll be surprised by wha
 You can also read the [documentation](https://datarefiner.readthedocs.io/) for more detailed installation 
 instructions, explanations, and examples.
 
+# Citation Request
 
-### Official Links (Get support for questions and answers)
+If you use this library for your project, please cite us with:
+
+```bibtex
+@software{thieu_2024_12820732,
+  author       = {Nguyen Van Thieu},
+  title        = {DataRefiner: An Advanced Toolkit for Data Transformation and Processing},
+  month        = jul,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.12820731},
+  url          = {https://github.com/thieu1995/DataRefiner}
+}
+```
+
+
+# Official Links (Get support for questions and answers)
 
 * [Official source code repository](https://github.com/thieu1995/DataRefiner)
 * [Official document](https://datarefiner.readthedocs.io/)
