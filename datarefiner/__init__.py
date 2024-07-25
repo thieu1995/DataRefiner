@@ -11,3 +11,4 @@ from datarefiner.ts.window import SlidingTransformer, RollingStatisticTransforme
 from datarefiner.ml.scaler import StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler
 from datarefiner.ml.scaler import Log1pScaler, LogeScaler, SqrtScaler, BoxCoxScaler, YeoJohnsonScaler, SinhArcSinhScaler, DataTransformer
 from datarefiner.helpers.preprocessor import Data
+from datarefiner.ml.label import LabelEncoder
