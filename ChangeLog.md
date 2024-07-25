@@ -7,7 +7,7 @@
 + Add infors (CODE_OF_CONDUCT.md, MANIFEST.in, LICENSE, README.md, requirements.txt, CITATION.cff)
 + Add package `ml` (machine learning) and `ts` (time series)
 + `ml` package has:
-  + `label` module has:
+  + `encoder` module has:
     + `LabelEncoder` class
   + `scaler` module has:
     + `StandardScaler` class
